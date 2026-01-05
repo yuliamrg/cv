@@ -1,0 +1,5 @@
+Activador:
+
+pandoc roles/data_analytics.md \                                           ✘ INT
+  --template=templates/template_cv.html \
+  -o cv.html
