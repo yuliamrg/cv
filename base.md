@@ -74,7 +74,7 @@ Profesional en formación en Ingeniería Industrial, con trayectoria técnica y 
 * **Tecnólogo en anlálisis y desarrollo de software** – *(en etapa práctica)*
 * **Tecnólogo en Logística** – Politécnico Grancolombiano
 * **Técnico en Refrigeración y Aire Acondicionado** – SENA
-* **Diplomado en Análisis y Narrativa de Datos** – En curso
+* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(En curso)*
 * **Diplomado en ambientes hospitalarios y salas blancas** – ACAIRE
 
 ---
