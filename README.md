@@ -8,7 +8,7 @@ El objetivo es mantener **un solo repositorio de información**, a partir del cu
 
 ## 🧠 Concepto General
 
-El CV final se construye uniendo tres partes:
+El CV final se construye uniendo tres partes (por idioma):
 
 1. **Header** → Información de contacto (no cambia)
 2. **Rol** → Contenido profesional específico (cambia según el cargo)
@@ -27,7 +27,11 @@ cv/
 ├── images/
 ├── offers/
 ├── roles/
+│   ├── es/
+│   └── en/
 ├── sections/
+│   ├── es/
+│   └── en/
 ├── template_cv.html
 ├── build_cv.sh
 ├── build_cv.ps1
@@ -50,11 +54,15 @@ cv/
    ```powershell
    pandoc --version
    ```
-3. Ejecutar:
+3. Ejecutar (ES por defecto):
    ```powershell
-   .\build_cv.ps1 data_analytics cv_data_analytics
+   .\build_cv.ps1 -Role data_analytics -Output cv_data_analytics -Lang es
    ```
-4. Abrir HTML y exportar a PDF desde Chrome
+4. Ejecutar en inglés:
+   ```powershell
+   .\build_cv.ps1 -Role data_analytics -Output cv_data_analytics_en -Lang en
+   ```
+5. Abrir HTML y exportar a PDF desde Chrome
 
 ---
 
@@ -68,17 +76,22 @@ cv/
    ```bash
    chmod +x build_cv.sh
    ```
-3. Ejecutar:
+3. Ejecutar (ES por defecto):
    ```bash
-   ./build_cv.sh data_analytics cv_data_analytics
+   ./build_cv.sh data_analytics cv_data_analytics es
    ```
+4. Ejecutar en inglés:
+   ```bash
+   ./build_cv.sh data_analytics cv_data_analytics_en en
+   ```
+5. Abrir HTML y exportar a PDF desde Chrome
 
 ---
 
 ## 🎯 Flujo de Trabajo
 
 1. Copiar oferta a `offers/`
-2. Ajustar archivo en `roles/`
+2. Ajustar archivo en `roles/es/` o `roles/en/`
 3. Ejecutar script
 4. Exportar PDF
 5. Enviar CV

@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="$lang$">
   <head>
     <meta charset="UTF-8" />
     <title>CV – Yuliam Rivera</title>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+
       /* =====================
      PRINT / PAGE
   ===================== */
@@ -12,11 +14,16 @@
       }
 
       :root {
-        --text: #0f172a;
-        --muted: #475569;
-        --subtle: #64748b;
-        --line: #e5e7eb;
-        --accent: #0f172a;
+        --ink: #0b1b2b;
+        --text: #122133;
+        --muted: #4b5c70;
+        --subtle: #6c7d90;
+        --line: #d7e0ea;
+        --accent: #1e4e8c;
+        --accent-strong: #143a6b;
+        --accent-soft: #e8f0fa;
+        --paper: #ffffff;
+        --shadow: rgba(15, 23, 42, 0.08);
       }
 
       * {
@@ -30,26 +37,36 @@
       }
 
       body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter,
-          Roboto, Helvetica, Arial, sans-serif;
-        font-size: 12.4px;
-        line-height: 1.55;
+        font-family: 'Source Sans 3', 'IBM Plex Sans', -apple-system,
+          BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12.6px;
+        line-height: 1.6;
         color: var(--text);
-        background: #ffffff;
+        background: #f6f8fb;
         -webkit-font-smoothing: antialiased;
         text-rendering: optimizeLegibility;
       }
 
       .cv {
         max-width: 860px;
-        margin: 0 auto;
-        padding: 18mm 14mm;
+        margin: 18mm auto 24mm auto;
+        padding: 18mm 16mm;
+        background: var(--paper);
+        box-shadow: 0 18px 60px var(--shadow);
+        border: 1px solid #eef2f7;
       }
 
       @media print {
+        body {
+          background: var(--paper);
+        }
+
         .cv {
           padding: 0;
           max-width: none;
+          margin: 0;
+          box-shadow: none;
+          border: none;
         }
       }
 
@@ -57,9 +74,9 @@
      LINKS (ATS SAFE)
   ===================== */
       a {
-        color: inherit;
+        color: var(--accent-strong);
         text-decoration: underline;
-        text-decoration-color: rgba(15, 23, 42, 0.3);
+        text-decoration-color: rgba(20, 58, 107, 0.3);
         text-underline-offset: 2px;
       }
 
@@ -68,39 +85,47 @@
   ===================== */
       .cv-header {
         display: grid;
-        grid-template-columns: 1fr 120px;
-        gap: 18px;
+        grid-template-columns: 1fr 128px;
+        gap: 22px;
         align-items: start;
-        padding-bottom: 12px;
+        padding-bottom: 14px;
         border-bottom: 1px solid var(--line);
         margin-bottom: 14px;
       }
 
       .cv-header-text h1 {
-        font-size: 23px;
+        font-size: 24px;
         font-weight: 700;
-        letter-spacing: 0.2px;
+        letter-spacing: 0.3px;
         line-height: 1.15;
         margin: 0 0 6px 0;
+        color: var(--ink);
       }
 
       .cv-header-text p {
-        font-size: 11.6px;
+        font-size: 11.7px;
         color: var(--muted);
         margin: 0 0 4px 0;
       }
 
       .cv-header-text p + p {
-        font-size: 11.2px;
+        font-size: 11.3px;
         color: var(--subtle);
         margin-top: 6px;
       }
 
+      .cv-header-photo {
+        display: flex;
+        justify-content: flex-end;
+      }
+
       .cv-header-photo img {
-        width: 112px;
-        height: 112px;
+        width: 118px;
+        height: 118px;
         object-fit: cover;
-        border-radius: 12px;
+        border-radius: 14px;
+        border: 3px solid var(--accent-soft);
+        box-shadow: 0 10px 24px rgba(20, 58, 107, 0.18);
       }
 
       @media screen and (max-width: 520px) {
@@ -110,6 +135,7 @@
 
         .cv-header-photo {
           margin-top: 8px;
+          justify-content: flex-start;
         }
       }
 
@@ -117,10 +143,10 @@
      SECTIONS
   ===================== */
       h2 {
-        font-size: 12.8px;
+        font-size: 12.6px;
         font-weight: 700;
         text-transform: uppercase;
-        letter-spacing: 0.4px;
+        letter-spacing: 0.6px;
         margin: 18px 0 8px 0;
         padding-top: 12px;
         border-top: 1px solid var(--line);
@@ -128,13 +154,18 @@
       }
 
       h3 {
-        font-size: 12.3px;
+        font-size: 12.4px;
         font-weight: 600;
         margin: 0 0 2px 0;
+        color: var(--ink);
       }
 
       p {
         margin: 0 0 6px 0;
+      }
+
+      strong {
+        color: var(--ink);
       }
 
       /* =====================
@@ -151,7 +182,16 @@
       }
 
       li::marker {
-        color: var(--subtle);
+        color: var(--accent-strong);
+      }
+
+      /* =====================
+     HIGHLIGHTS
+  ===================== */
+      .cv-header-text em {
+        font-style: normal;
+        color: var(--accent-strong);
+        font-weight: 600;
       }
 
       /* =====================
@@ -172,7 +212,7 @@
       .cv-footer {
         margin-top: 16px;
         padding-top: 6px;
-        font-size: 10.4px;
+        font-size: 10.6px;
         color: var(--subtle);
         border-top: 1px solid var(--line);
       }
@@ -185,7 +225,7 @@
         <div class="cv-header-text">$body$</div>
 
         <div class="cv-header-photo">
-          <img src="../images/picture_profile.jpeg" alt="Foto de perfil" />
+          <img src="../images/picture_profile.png" alt="Foto de perfil" />
         </div>
       </header>
     </main>

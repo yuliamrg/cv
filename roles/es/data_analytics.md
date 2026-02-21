@@ -34,7 +34,7 @@ Analista de Datos en transición desde la ingeniería y el mantenimiento industr
 ## FORMACIÓN ACADÉMICA
 
 - **Ingeniería Industrial** – Politécnico Grancolombiano *(Último semestre)*
-- **Tecnólogo en anlálisis y desarrollo de software** – SENA *(en etapa práctica)*
+- **Tecnólogo en análisis y desarrollo de software** – SENA *(en etapa práctica)*
 - **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(En curso)*
 
 ---
@@ -49,7 +49,7 @@ Analista de Datos en transición desde la ingeniería y el mantenimiento industr
 - Procesos ETL (básico)
 - Visualización de datos
 - KPIs y métricas operativas
-
+- Excel
 ---
 
 ## HERRAMIENTAS
