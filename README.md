@@ -1,113 +1,84 @@
-# 📄 Sistema de Creación de Hojas de Vida Modulares (Markdown + Pandoc)
+# Sistema de Creación de Hojas de Vida Modulares
 
-Este proyecto implementa un sistema profesional para crear **hojas de vida (CV)** de forma **modular, reutilizable y automatizada**, utilizando **Markdown, Pandoc y HTML**, sin depender de plataformas de pago.
+Repositorio para generar versiones del CV en español e inglés usando Markdown, Pandoc y una plantilla HTML. El objetivo es mantener el contenido organizado por secciones y roles para adaptar cada hoja de vida a una vacante sin duplicar información.
 
-El objetivo es mantener **un solo repositorio de información**, a partir del cual se pueden generar múltiples versiones de CV según el rol (Analista de Datos, Coordinador de Mantenimiento, etc.), optimizadas para **ATS** y listas para exportar a **PDF**.
+## Cómo funciona
 
----
+Cada CV se construye a partir de tres archivos:
 
-## 🧠 Concepto General
+1. `sections/<lang>/header.md`
+2. `roles/<lang>/<role>.md`
+3. `sections/<lang>/footer.md`
 
-El CV final se construye uniendo tres partes (por idioma):
+Los scripts ensamblan esos archivos con `template_cv.html` y generan una salida HTML en `build/`.
 
-1. **Header** → Información de contacto (no cambia)
-2. **Rol** → Contenido profesional específico (cambia según el cargo)
-3. **Footer** → Información adicional (idiomas, licencias, otros datos)
+## Estructura del proyecto
 
-Todo se escribe en **Markdown**, se ensambla con **Pandoc**, se renderiza con una **plantilla HTML profesional**, y finalmente se exporta a **PDF**.
-
----
-
-## 📁 Estructura del Proyecto
-
-```
-cv/
-├── build/
-├── exports/
-├── images/
-├── offers/
+```text
+.
 ├── roles/
 │   ├── es/
 │   └── en/
 ├── sections/
 │   ├── es/
 │   └── en/
+├── images/
+├── offers/
+├── docs/
+│   └── legacy/
+├── build/
+├── exports/
 ├── template_cv.html
 ├── build_cv.sh
 ├── build_cv.ps1
-└── README.md
+├── README.md
+└── AGENTS.md
 ```
 
----
+## Requisitos
 
-## 🛠️ Requisitos
+- `pandoc`
+- Google Chrome o Chromium para revisar el HTML y exportar a PDF
 
-- Pandoc → https://pandoc.org/installing.html
-- Google Chrome / Chromium
+Verificación rápida:
 
----
+```bash
+pandoc --version
+```
 
-## 🪟 Uso en Windows
+## Uso
 
-1. Instalar Pandoc (.msi) y marcar **Add to PATH**
-2. Abrir PowerShell y verificar:
-   ```powershell
-   pandoc --version
-   ```
-3. Ejecutar (ES por defecto):
-   ```powershell
-   .\build_cv.ps1 -Role data_analytics -Output cv_data_analytics -Lang es
-   ```
-4. Ejecutar en inglés:
-   ```powershell
-   .\build_cv.ps1 -Role data_analytics -Output cv_data_analytics_en -Lang en
-   ```
-5. Abrir HTML y exportar a PDF desde Chrome
+### Linux / macOS
 
----
+```bash
+chmod +x build_cv.sh
+./build_cv.sh data_analytics cv_data_analytics es
+./build_cv.sh data_analytics cv_data_analytics_en en
+```
 
-## 🐧 Uso en Linux
+### Windows PowerShell
 
-1. Instalar Pandoc:
-   ```bash
-   sudo apt install pandoc
-   ```
-2. Dar permisos:
-   ```bash
-   chmod +x build_cv.sh
-   ```
-3. Ejecutar (ES por defecto):
-   ```bash
-   ./build_cv.sh data_analytics cv_data_analytics es
-   ```
-4. Ejecutar en inglés:
-   ```bash
-   ./build_cv.sh data_analytics cv_data_analytics_en en
-   ```
-5. Abrir HTML y exportar a PDF desde Chrome
+```powershell
+.\build_cv.ps1 -Role data_analytics -Output cv_data_analytics -Lang es
+.\build_cv.ps1 -Role data_analytics -Output cv_data_analytics_en -Lang en
+```
 
----
+## Flujo recomendado
 
-## 🎯 Flujo de Trabajo
+1. Guardar la oferta en `offers/` si se quiere conservar como referencia.
+2. Editar el archivo del rol en `roles/es/` o `roles/en/`.
+3. Ejecutar el script correspondiente.
+4. Revisar el HTML generado en `build/`.
+5. Exportar la versión final a PDF y guardarla en `exports/`.
 
-1. Copiar oferta a `offers/`
-2. Ajustar archivo en `roles/es/` o `roles/en/`
-3. Ejecutar script
-4. Exportar PDF
-5. Enviar CV
+## Convenciones
 
----
+- Usar `snake_case` para nombres de roles, por ejemplo `coordinador_compras.md`.
+- Mantener `header.md` y `footer.md` como contenido compartido por idioma.
+- No editar manualmente archivos dentro de `build/`.
+- Los archivos en `docs/legacy/` son referencias históricas y no forman parte del flujo actual.
 
-## ✅ Buenas Prácticas
+## Notas
 
-- Mantener CV en 1–2 páginas
-- Ajustar palabras clave por oferta
-- No usar texto oculto
-- Versionar con Git (opcional)
-
----
-
-## 📌 Autor
-
-**Yuliam Darío Rivera González**  
-Uso personal / profesional
+- No hay pruebas automatizadas; la validación es manual revisando la salida HTML y PDF.
+- Si en el futuro se agregan dependencias JavaScript, usar `pnpm` por defecto.
