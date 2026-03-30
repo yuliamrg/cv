@@ -1,4 +1,6 @@
-# Sistema de Creación de Hojas de Vida Modulares
+# Automation CV Maker
+
+Sistema de creacion de hojas de vida modulares.
 
 Repositorio para generar versiones del CV en español e inglés usando Markdown, Pandoc y una plantilla HTML. El objetivo es mantener el contenido organizado por secciones y roles para adaptar cada hoja de vida a una vacante sin duplicar información.
 
