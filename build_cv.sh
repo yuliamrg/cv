@@ -23,6 +23,8 @@ if [ ! -f "sections/$LANG/header.md" ] || [ ! -f "sections/$LANG/footer.md" ]; t
   exit 1
 fi
 
+mkdir -p build exports
+
 pandoc \
   sections/$LANG/header.md \
   roles/$LANG/$ROLE.md \
@@ -30,5 +32,10 @@ pandoc \
   --template=template_cv.html \
   --metadata lang=$LANG \
   -o build/$OUTPUT.html
+
+if [ $? -ne 0 ]; then
+  echo "❌ Falló la generación HTML con pandoc"
+  exit 1
+fi
 
 echo "✔ HTML generado: build/$OUTPUT.html"

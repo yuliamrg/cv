@@ -24,6 +24,8 @@ if (!(Test-Path $headerFile) -or !(Test-Path $footerFile)) {
   exit 1
 }
 
+New-Item -ItemType Directory -Force -Path "build", "exports" | Out-Null
+
 pandoc `
   $headerFile `
   $roleFile `
@@ -31,6 +33,11 @@ pandoc `
   --template=template_cv.html `
   --metadata lang=$Lang `
   -o build\$Output.html
+
+if ($LASTEXITCODE -ne 0) {
+  Write-Host "❌ Falló la generación HTML con pandoc"
+  exit $LASTEXITCODE
+}
 
 Write-Host "[OK] HTML generado: build\$Output.html"
 

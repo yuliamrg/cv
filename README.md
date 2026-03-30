@@ -11,6 +11,7 @@ Cada CV se construye a partir de tres archivos:
 3. `sections/<lang>/footer.md`
 
 Los scripts ensamblan esos archivos con `template_cv.html` y generan una salida HTML en `build/`.
+Si `build/` o `exports/` no existen, los scripts los crean automáticamente.
 
 ## Estructura del proyecto
 
@@ -75,6 +76,7 @@ chmod +x build_cv.sh
 
 - Usar `snake_case` para nombres de roles, por ejemplo `coordinador_compras.md`.
 - Mantener `header.md` y `footer.md` como contenido compartido por idioma.
+- Guardar versiones activas solo en `roles/<lang>/`; los borradores fuera de esa estructura no forman parte del flujo de build.
 - No editar manualmente archivos dentro de `build/`.
 - Los archivos en `docs/legacy/` son referencias históricas y no forman parte del flujo actual.
 

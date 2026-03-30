@@ -35,8 +35,8 @@ Reglas para validar contenido de plantillas antes de generar versiones finales.
 
 ## 4. ATS Compatibility
 
-- [ ] NO crear sección de "Palabras clave ATS" suelta
-- [ ] Keywords integradas naturalmente en contenido
+- [ ] NO crear sección de palabras clave o keywords ATS
+- [ ] Keywords implícitas e integradas naturalmente en perfil, experiencia y habilidades
 - [ ] Links como texto (no imágenes)
 - [ ] Formato simple (evitar tablas complejas o elementos que ATS no lea)
 
@@ -62,7 +62,7 @@ Reglas para validar contenido de plantillas antes de generar versiones finales.
 
 ## Ejemplo de Perfil que Cumple
 
-> **Incorrecto:** "Profesional con experiencia en análisis de datos y herramientas como Excel, Python y SQL. Busco oportunidades en empresas de tecnología."
+> **Incorrecto:** "Profesional con experiencia en análisis de datos. Keywords: Excel, Python, SQL, KPIs."
 
 > **Correcto:** "Analista de datos con experiencia en Python y SQL. Desarrollé dashboards en Looker Studio que redujeron tiempo de reporte en 50%. Busco rol de Jr. en empresa de retail."
 
