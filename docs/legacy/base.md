@@ -8,7 +8,7 @@ Email: [yuliam.rivera@outlook.com](mailto:yuliam.rivera@outlook.com) · +57 304 
 
 ## PERFIL PROFESIONAL
 
-Profesional en formación en Ingeniería Industrial, con trayectoria técnica y analítica en entornos industriales y hospitalarios. Cuento con experiencia en planeación de mantenimiento, control de costos, análisis de datos operativos y desarrollo de indicadores para la toma de decisiones. Mi perfil combina conocimiento técnico, pensamiento analítico y enfoque en mejora continua, lo que me permite adaptarme a roles en análisis de datos, ingeniería, logística y gestión de mantenimiento.
+Ingeniero Industrial con trayectoria técnica y analítica en entornos industriales y hospitalarios. Cuento con experiencia en planeación de mantenimiento, control de costos, análisis de datos operativos y desarrollo de indicadores para la toma de decisiones. Mi perfil combina conocimiento técnico, pensamiento analítico y enfoque en mejora continua, lo que me permite adaptarme a roles en análisis de datos, ingeniería, logística y gestión de mantenimiento.
 
 ---
 
@@ -70,11 +70,11 @@ Profesional en formación en Ingeniería Industrial, con trayectoria técnica y 
 
 ## FORMACIÓN ACADÉMICA
 
-* **Ingeniería Industrial** – Politécnico Grancolombiano *(Último semestre)*
-* **Tecnólogo en anlálisis y desarrollo de software** – *(en etapa práctica)*
+* **Ingeniería Industrial** – Politécnico Grancolombiano *(culminada en marzo de 2026)*
+* **Tecnólogo en análisis y desarrollo de software** – SENA *(en etapa práctica)*
 * **Tecnólogo en Logística** – Politécnico Grancolombiano
 * **Técnico en Refrigeración y Aire Acondicionado** – SENA
-* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(En curso)*
+* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(culminado en febrero de 2026)*
 * **Diplomado en ambientes hospitalarios y salas blancas** – ACAIRE
 
 ---
@@ -103,13 +103,6 @@ Profesional en formación en Ingeniería Industrial, con trayectoria técnica y 
 - Looker Studio
 - Google Apps Script
 - AppSheet
-
----
-
-
-## PALABRAS CLAVE ATS
-
-Analista de Datos, Data Analyst, KPIs, ETL, Python, SQL, Excel avanzado, Visualización de datos, Looker Studio, OPEX, CAPEX, Mejora continua, Ingeniería Industrial, Coordinador / Analista de Mantenimiento, Ingeniería Industrial, Análisis de Datos, Control de Costos, Mejora Continua, Planeación de Mantenimiento, Gestión de Activos, Análisis de Procesos
 
 ---
 

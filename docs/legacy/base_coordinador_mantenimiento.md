@@ -1,6 +1,6 @@
 ## PERFIL PROFESIONAL
 
-Coordinador / Analista de Mantenimiento con formación en Ingeniería Industrial y amplia experiencia en entornos industriales y hospitalarios. Especializado en la planeación, control y optimización de procesos de mantenimiento, gestión de costos y análisis de indicadores para la toma de decisiones. Cuento con trayectoria técnica en sistemas HVAC y equipos críticos, lo que me permite integrar la visión operativa con el análisis de datos, la mejora continua y la gestión eficiente de recursos.
+Coordinador / Analista de Mantenimiento e Ingeniero Industrial con amplia experiencia en entornos industriales y hospitalarios. Especializado en la planeación, control y optimización de procesos de mantenimiento, gestión de costos y análisis de indicadores para la toma de decisiones. Cuento con trayectoria técnica en sistemas HVAC y equipos críticos, lo que me permite integrar la visión operativa con el análisis de datos, la mejora continua y la gestión eficiente de recursos.
 
 ---
 
@@ -33,11 +33,11 @@ Coordinador / Analista de Mantenimiento con formación en Ingeniería Industrial
 
 ## FORMACIÓN ACADÉMICA
 
-- **Ingeniería Industrial** – Politécnico Grancolombiano *(Último semestre)*
+- **Ingeniería Industrial** – Politécnico Grancolombiano *(culminada en marzo de 2026)*
 - **Tecnólogo en Logística** – Politécnico Grancolombiano
 - **Tecnólogo en Análisis y Desarrollo de Software** – SENA *(Etapa práctica)*
 - **Técnico en Refrigeración y Aire Acondicionado** – SENA
-- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(En curso)*
+- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(culminado en febrero de 2026)*
 - **Diplomado en Calidad de aire interior en ambientes hospitalarios** – ACAIRE
 
 ---
@@ -63,9 +63,3 @@ Coordinador / Analista de Mantenimiento con formación en Ingeniería Industrial
 - Google workspace
 - Sistemas BMS (Metasys)
 - Qsystems
-
----
-
-## PALABRAS CLAVE ATS
-
-Coordinador de Mantenimiento, Supervisor de Mantenimiento, Analista de Mantenimiento, Planeación de Mantenimiento, Mantenimiento Preventivo, Mantenimiento Correctivo, Gestión de Activos, KPIs de Mantenimiento, OPEX, CAPEX, Control de Costos, Mejora Continua, Gestión de Proveedores, Equipos Críticos, Mantenimiento Industrial, Mantenimiento Hospitalario

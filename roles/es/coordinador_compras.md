@@ -37,10 +37,10 @@ Profesional en **Ingeniería Industrial** con experiencia en **gestión de compr
 
 ## FORMACIÓN ACADÉMICA
 
-* **Ingeniería Industrial** – Politécnico Grancolombiano *(último semestre)*
+* **Ingeniería Industrial** – Politécnico Grancolombiano *(culminada en marzo de 2026)*
 * **Tecnólogo en Logística** – Politécnico Grancolombiano
 * **Tecnólogo en Análisis y Desarrollo de Software** – SENA *(etapa práctica)*
-* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(en curso)*
+* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(culminado en febrero de 2026)*
 
 ---
 
@@ -67,9 +67,3 @@ Profesional en **Ingeniería Industrial** con experiencia en **gestión de compr
 * Google Workspace
 * Sistemas de gestión operativa
 * Qsystems
-
----
-
-## PALABRAS CLAVE ATS
-
-Jefe de Compras, Coordinador de Compras, Analista de Compras, Abastecimiento, Negociación con Proveedores, Control de Inventarios, Evaluación de Proveedores, Compras de Servicios, Compras de Materiales, Análisis Financiero, Presupuesto, OPEX, CAPEX, Licitaciones, Gestión de Contratos, Logística, Planeación de Compras, Gestión de Proveedores, Construcción

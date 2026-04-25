@@ -1,75 +1,69 @@
-## PERFIL PROFESIONAL
+## PROFESSIONAL PROFILE
 
-Profesional en **Ingeniería Industrial** con experiencia en **gestión de compras, negociación con proveedores, control de costos y análisis financiero**, enfocado en optimizar procesos de abastecimiento y logística en entornos operativos de alta exigencia. Cuento con trayectoria liderando compras de bienes y servicios, seguimiento presupuestal (OPEX / CAPEX), control de inventarios y evaluación de proveedores, garantizando cumplimiento en **precio, calidad y tiempos de entrega**. Capacidad para trabajar de forma transversal con áreas técnicas, administrativas y jurídicas, aportando una visión analítica orientada a resultados y eficiencia operativa.
+Industrial Engineer with experience in purchasing management, supplier negotiation, cost control, and financial analysis, focused on optimizing procurement and logistics processes in demanding operational environments. Experienced in purchasing goods and services, OPEX/CAPEX budget tracking, inventory control, and supplier evaluation, ensuring compliance with price, quality, and delivery requirements. Able to work cross-functionally with technical, administrative, and financial teams, bringing an analytical approach focused on results and operational efficiency.
 
 ---
 
-## EXPERIENCIA PROFESIONAL
+## PROFESSIONAL EXPERIENCE
 
-### Analista de Planeación y Compras
+### Planning and Purchasing Analyst
 
 **Clínica de Occidente – Cali, Colombia**
-*Marzo 2024 – Actualidad*
+*March 2024 – Present*
 
-* Planeación, ejecución y control de **compras de bienes y servicios** para operación y mantenimiento.
-* **Negociación con proveedores** para obtener mejores condiciones de precio, plazo y calidad.
-* Control y seguimiento de **presupuestos OPEX y CAPEX**, asegurando alineación con la planeación financiera.
-* Elaboración, gestión y seguimiento de **órdenes de compra y contratos de servicios**.
-* Evaluación y seguimiento al desempeño de proveedores (cumplimiento, calidad y tiempos).
-* Coordinación con áreas técnicas, administrativas y financieras para garantizar continuidad operativa.
-* Análisis de costos y elaboración de reportes para soporte a la toma de decisiones gerenciales.
-* Gestión y depuración de la **base de datos de proveedores**.
+* Planned, executed, and controlled purchases of goods and services for operations and maintenance.
+* Negotiated with suppliers to obtain better price, timeline, and quality conditions.
+* Controlled and monitored OPEX and CAPEX budgets, ensuring alignment with financial planning.
+* Prepared, managed, and tracked purchase orders and service contracts.
+* Evaluated and monitored supplier performance, including compliance, quality, and delivery times.
+* Coordinated with technical, administrative, and financial areas to ensure operational continuity.
+* Analyzed costs and prepared reports to support management decision-making.
+* Managed and cleaned the supplier database.
 
-### Técnico / Analista Operativo
+### Technical / Operations Analyst
 
 **Clínica de Occidente – Cali, Colombia**
-*Septiembre 2018 – Febrero 2024*
+*September 2018 – February 2024*
 
-* Apoyo en procesos de compras técnicas, selección de proveedores y contratación de servicios especializados.
-* Seguimiento a cronogramas de entrega y cumplimiento de condiciones pactadas.
-* Control de inventarios de repuestos y materiales críticos.
-* Soporte técnico para validación de especificaciones en procesos de compra.
-* Interacción constante con proveedores y contratistas para control de calidad del servicio.
+* Supported technical purchasing processes, supplier selection, and specialized service contracting.
+* Monitored delivery schedules and compliance with agreed conditions.
+* Controlled inventories of spare parts and critical materials.
+* Provided technical support for specification validation in purchasing processes.
+* Interacted regularly with suppliers and contractors to control service quality.
 
-*(Experiencia técnica previa resumida para priorizar el enfoque en compras y gestión)*
-
----
-
-## FORMACIÓN ACADÉMICA
-
-* **Ingeniería Industrial** – Politécnico Grancolombiano *(último semestre)*
-* **Tecnólogo en Logística** – Politécnico Grancolombiano
-* **Tecnólogo en Análisis y Desarrollo de Software** – SENA *(etapa práctica)*
-* **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(en curso)*
+*(Prior technical experience summarized to prioritize purchasing and management focus)*
 
 ---
 
-## HABILIDADES TÉCNICAS
+## EDUCATION
 
-* Gestión de compras y abastecimiento
-* Negociación con proveedores
-* Control de inventarios
-* Evaluación y homologación de proveedores
-* Análisis financiero y presupuestal
-* Control de costos (OPEX / CAPEX)
-* Licitaciones y procesos de selección
-* Seguimiento a contratos y cumplimiento
-* Análisis de datos para toma de decisiones
-* Coordinación interáreas
+* **Industrial Engineering** – Politécnico Grancolombiano *(completed in March 2026)*
+* **Logistics Technologist** – Politécnico Grancolombiano
+* **Software Analysis and Development Technologist** – SENA *(practicum)*
+* **Diploma in Data Analysis and Data Storytelling** – Politécnico Grancolombiano *(completed in February 2026)*
 
 ---
 
-## HERRAMIENTAS
+## TECHNICAL SKILLS
 
-* Microsoft Excel (avanzado)
+* Purchasing and procurement management
+* Supplier negotiation
+* Inventory control
+* Supplier evaluation and approval
+* Financial and budget analysis
+* Cost control (OPEX / CAPEX)
+* Bidding and selection processes
+* Contract follow-up and compliance
+* Data analysis for decision-making
+* Cross-functional coordination
+
+---
+
+## TOOLS
+
+* Microsoft Excel (advanced)
 * Power BI
 * Looker Studio
 * Google Workspace
-* Sistemas de gestión operativa
+* Operational management systems
 * Qsystems
-
----
-
-## PALABRAS CLAVE ATS
-
-Jefe de Compras, Coordinador de Compras, Analista de Compras, Abastecimiento, Negociación con Proveedores, Control de Inventarios, Evaluación de Proveedores, Compras de Servicios, Compras de Materiales, Análisis Financiero, Presupuesto, OPEX, CAPEX, Licitaciones, Gestión de Contratos, Logística, Planeación de Compras, Gestión de Proveedores, Construcción

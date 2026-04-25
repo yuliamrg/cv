@@ -1,6 +1,6 @@
 ## PERFIL PROFESIONAL
 
-Analista de Datos en transición desde ingeniería industrial. Construyo indicadores, procesos ETL y dashboards en Looker Studio para toma de decisiones. Actualmente desarrollo dashboards de control de costos (OPEX/CAPEX) que redujeron tiempo de reporte en 60%. Busco roles de Analista de Datos Junior, remoto o presencial.
+Ingeniero Industrial orientado al análisis de datos. Construyo indicadores, procesos ETL y dashboards en Looker Studio para toma de decisiones. Actualmente desarrollo dashboards de control de costos (OPEX/CAPEX) que redujeron tiempo de reporte en 60%. Busco roles de Analista de Datos Junior, remoto o presencial.
 
 ---
 
@@ -33,9 +33,9 @@ Analista de Datos en transición desde ingeniería industrial. Construyo indicad
 
 ## FORMACIÓN ACADÉMICA
 
-- **Ingeniería Industrial** – Politécnico Grancolombiano *(En proceso de graduación)*
+- **Ingeniería Industrial** – Politécnico Grancolombiano *(culminada en marzo de 2026)*
 - **Tecnólogo en análisis y desarrollo de software** – SENA *(en etapa práctica)*
-- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano
+- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(culminado en febrero de 2026)*
 
 ---
 

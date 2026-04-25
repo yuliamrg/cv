@@ -1,6 +1,6 @@
 ## PERFIL PROFESIONAL
 
-Analista de Datos en transición desde la ingeniería y el mantenimiento industrial, con sólida experiencia en planeación, control de costos (OPEX / CAPEX) y mejora continua. Ingeniero Industrial en último semestre, con formación en análisis y narrativa de datos. Experiencia real en construcción de indicadores, procesos ETL y visualización para la toma de decisiones en entornos hospitalarios e industriales. Interés en roles de Analista de Datos Junior, tanto en empresas colombianas como en modalidad remota internacional.
+Ingeniero Industrial orientado al análisis de datos, con sólida experiencia en planeación, control de costos (OPEX / CAPEX) y mejora continua. Formación culminada en análisis y narrativa de datos. Experiencia real en construcción de indicadores, procesos ETL y visualización para la toma de decisiones en entornos hospitalarios e industriales. Interés en roles de Analista de Datos Junior, tanto en empresas colombianas como en modalidad remota internacional.
 
 ---
 
@@ -33,9 +33,9 @@ Analista de Datos en transición desde la ingeniería y el mantenimiento industr
 
 ## FORMACIÓN ACADÉMICA
 
-- **Ingeniería Industrial** – Politécnico Grancolombiano *(Último semestre)*
-- **Tecnólogo en anlálisis y desarrollo de software** – SENA *(en etapa práctica)*
-- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(En curso)*
+- **Ingeniería Industrial** – Politécnico Grancolombiano *(culminada en marzo de 2026)*
+- **Tecnólogo en análisis y desarrollo de software** – SENA *(en etapa práctica)*
+- **Diplomado en Análisis y Narrativa de Datos** – Politécnico Grancolombiano *(culminado en febrero de 2026)*
 
 ---
 
@@ -59,9 +59,3 @@ Analista de Datos en transición desde la ingeniería y el mantenimiento industr
 - Looker Studio
 - Google Apps Script
 - AppSheet
-
----
-
-## PALABRAS CLAVE ATS
-
-Analista de Datos, Data Analyst, KPIs, ETL, Python, SQL, Excel avanzado, Visualización de datos, Looker Studio, OPEX, CAPEX, Mejora continua
