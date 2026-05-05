@@ -85,4 +85,5 @@ chmod +x build_cv.sh
 ## Notas
 
 - No hay pruebas automatizadas; la validación es manual revisando la salida HTML y PDF.
+- La plantilla actual está optimizada para CV de una página en formato A4; al exportar desde Chrome/Chromium, conservar fondos gráficos para mantener la barra lateral y acentos visuales.
 - Si en el futuro se agregan dependencias JavaScript, usar `pnpm` por defecto.

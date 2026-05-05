@@ -1,6 +1,6 @@
 ## PERFIL PROFESIONAL
 
-Ingeniero Industrial orientado al análisis de datos. Construyo indicadores, procesos ETL y dashboards en Looker Studio para toma de decisiones. Actualmente desarrollo dashboards de control de costos (OPEX/CAPEX) que redujeron tiempo de reporte en 60%. Busco roles de Analista de Datos Junior, remoto o presencial.
+Analista de Datos Junior e Ingeniero Industrial con experiencia construyendo dashboards, KPIs y procesos ETL para decisiones operativas y financieras. Manejo Looker Studio, Excel avanzado, Python, SQL básico y Google Apps Script. He reducido tiempos de reporte en 60%, automatizado datos desde 3 fuentes e identificado oportunidades de ahorro del 15% en control OPEX/CAPEX.
 
 ---
 
@@ -11,12 +11,11 @@ Ingeniero Industrial orientado al análisis de datos. Construyo indicadores, pro
 **Clínica de Occidente – Cali, Colombia**
 *Marzo 2024 – Actualidad*
 
-- Desarrollo de dashboards en Looker Studio para control de costos OPEX/CAPEX, reduciendo tiempo de reporte manual de 8h a 3h semanales.
-- Construcción y seguimiento de KPIs mediante procesos ETL, automatizando carga de datos de 3 fuentes.
-- Análisis de datos operativos y financieros para planeación de mantenimiento, identificando 15% de oportunidades de ahorro.
-- Automatización de reportes usando Excel avanzado y Google Apps Script, eliminando tareas repetitivas.
-- Soporte analítico a jefaturas técnicas para toma de decisiones basada en datos.
-- Trabajo colaborativo con áreas administrativas, técnicas y financieras.
+- Diseño dashboards en Looker Studio para control OPEX/CAPEX, reduciendo reportes manuales de 8h a 3h semanales.
+- Construyo KPIs y procesos ETL con datos de 3 fuentes para seguimiento operativo, financiero y técnico.
+- Analizo costos, fallas y consumo de recursos, identificando 15% de oportunidades de ahorro.
+- Automatizo reportes con Excel avanzado y Google Apps Script para eliminar tareas repetitivas.
+- Entrego insights a jefaturas técnicas, administrativas y financieras para decisiones basadas en datos.
 
 ### Técnico en Refrigeración y Aire Acondicionado
 
@@ -27,7 +26,7 @@ Ingeniero Industrial orientado al análisis de datos. Construyo indicadores, pro
 - Registro, seguimiento y análisis de fallas recurrentes, reduciendo downtime en 20%.
 - Soporte a implementación de sistemas BMS (Metasys) como fuente de datos operativos.
 
-*(Experiencia técnica previa resumida – ver perfil linkedin para detalle completo)*
+*(Experiencia técnica previa resumida en LinkedIn.)*
 
 ---
 
@@ -41,17 +40,8 @@ Ingeniero Industrial orientado al análisis de datos. Construyo indicadores, pro
 
 ## HABILIDADES TÉCNICAS
 
-**Análisis & Visualización**
-- Looker Studio / Data Studio
-- Microsoft Excel (avanzado)
-- Power BI (básico)
+**Visualización y reporting:** Looker Studio / Data Studio, Microsoft Excel avanzado, Power BI básico.
 
-**Lenguajes & ETL**
-- Python (intermedio)
-- SQL (básico)
-- Google Apps Script (intermedio)
+**Datos y automatización:** Python intermedio, SQL básico, Google Apps Script intermedio, procesos ETL.
 
-**Conceptos**
-- KPIs y métricas operativas
-- Procesos ETL (básico)
-- Control de costos (OPEX/CAPEX)
+**Análisis de negocio:** KPIs, métricas operativas, control de costos OPEX/CAPEX, narrativa de datos.
